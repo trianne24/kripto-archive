@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545149560 source:e:\programs\c++\descrypto\main.cpp
+	<stdio.h>
+	<fstream>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<cstring>
+
